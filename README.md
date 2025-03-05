@@ -4,8 +4,6 @@
 
 B-Book은 Spring Boot 기반의 온라인 서점 플랫폼으로, 사용자 친화적인 인터페이스와 안전한 결제 시스템을 통해 온라인 도서 구매 경험을 향상시키는 것을 목표로 합니다.
 
-![B-Book Logo](https://via.placeholder.com/150x50?text=B-Book)
-
 ## 목차
 
 - [주요 기능](#주요-기능)
