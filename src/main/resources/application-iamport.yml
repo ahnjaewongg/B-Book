@@ -1,0 +1,2 @@
+slack:
+  webhook-url: ${SLACK_WEBHOOK_URL}  # This will be set via environment variable 
