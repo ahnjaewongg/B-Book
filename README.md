@@ -187,12 +187,6 @@ spring:
 
 ## 기여자
 
-- [김지헌. 이종민. 안재원](https://github.com/username)
+- [김지헌. 이종민. 안재원](https://github.com/ahnjaewongg)
 
-## 라이센스
-
-이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
-
----
-
-© 2025 B-Book Team. All Rights Reserved.
+--
